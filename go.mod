@@ -1,3 +1,3 @@
-module hello.go
+module struct.go
 
 go 1.20
